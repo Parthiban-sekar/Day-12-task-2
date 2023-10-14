@@ -1,0 +1,80 @@
+
+.parent{
+    border: 1px solid black;
+    margin: 50px;
+    background-color: rgb(153, 165, 149);
+}
+.child1{
+ background-color: rgb(53, 53, 67);
+ height: 80px;
+   
+}
+.class2{
+    margin : 40px 20px 40px 50px;
+    border-radius:2vmax;
+    padding: 60px;
+    background-color: rgb(37, 35, 35);
+    height: 500px;
+    width: 270px;
+}
+h2{
+    color: aliceblue;
+    text-align:center;
+    padding-top: 12px;
+
+}
+.fa{
+    position: absolute;
+    top: 60px;
+    left: 80px;
+}
+.class3{
+    margin : 10px 20px 40px 150px;
+    border-radius:1ch;
+    padding: 20px;
+    background-color: rgb(37, 35, 35);
+   width: 650px;
+   position:absolute;
+   top: 170px;
+   left: 450px;
+}
+.class4{
+    margin : 40px 20px 40px 50px;
+    border-radius:2ch;
+    padding: 70px;
+    background-color: rgb(37, 35, 35);
+    width: 200px;
+    position: absolute;
+    top: 280px;
+    left: 500px;
+}
+.class5{
+    margin : 40px 20px 40px 50px;
+    border-radius:2ch;
+    padding: 70px;
+    background-color: rgb(37, 35, 35);
+    width: 200px;
+    position: absolute;
+    top: 280px;
+    left: 800px;
+}
+.class6{
+    margin : 40px 20px 40px 50px;
+    border-radius:2ch;
+    padding: 60px;
+    background-color: rgb(37, 35, 35);
+    width: 800px;
+    position: absolute;
+    bottom: 150px;
+    right: 100px;
+}
+.class7{
+    margin : 40px 20px 40px 50px;
+    border-radius:2ch;
+    padding: 70px;
+    background-color: rgb(37, 35, 35);
+    width: 200px;
+    position: absolute;
+    top: 280px;
+    left: 1100px;
+}
